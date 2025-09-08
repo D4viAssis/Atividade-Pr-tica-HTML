@@ -1,11 +1,16 @@
 .oi{
     color: rgb(255, 255, 255);
     font-size: 70px;
-    border: 2px solid rgb(130, 173, 194);
+    border: 2px solid rgb(255, 255, 255);
 
 
 }
 body {
-background-color:rgb(56, 63, 100)
+background-color:rgb(37, 38, 43)
+
+}
+.img {
+    border: 4px solid white;
+
 
 }
